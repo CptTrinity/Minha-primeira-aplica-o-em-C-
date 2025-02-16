@@ -1,0 +1,2 @@
+C:\Users\Trindade\Desktop\Song Critic\bin\Release\net8.0\win-x64\publish\Song Critic.pdb
+C:\Users\Trindade\Desktop\Song Critic\bin\Release\net8.0\win-x64\publish\Song Critic.exe

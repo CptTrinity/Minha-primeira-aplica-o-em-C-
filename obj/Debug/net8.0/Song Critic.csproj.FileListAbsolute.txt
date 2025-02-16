@@ -1,0 +1,14 @@
+C:\Users\Trindade\Desktop\Song Critic\bin\Debug\net8.0\Song Critic.exe
+C:\Users\Trindade\Desktop\Song Critic\bin\Debug\net8.0\Song Critic.deps.json
+C:\Users\Trindade\Desktop\Song Critic\bin\Debug\net8.0\Song Critic.runtimeconfig.json
+C:\Users\Trindade\Desktop\Song Critic\bin\Debug\net8.0\Song Critic.dll
+C:\Users\Trindade\Desktop\Song Critic\bin\Debug\net8.0\Song Critic.pdb
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.AssemblyInfoInputs.cache
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.AssemblyInfo.cs
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.csproj.CoreCompileInputs.cache
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.dll
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\refint\Song Critic.dll
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.pdb
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\Song Critic.genruntimeconfig.cache
+C:\Users\Trindade\Desktop\Song Critic\obj\Debug\net8.0\ref\Song Critic.dll

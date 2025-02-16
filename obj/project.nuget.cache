@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fX+TTvl21HI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Trindade\\Desktop\\Song Critic\\Song Critic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trindade\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Trindade\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Trindade\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Trindade\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
